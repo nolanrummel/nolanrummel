@@ -1,4 +1,4 @@
-## Hello there! :wave: I'm Nolan Rummel
+# Hello there! :wave: I'm Nolan Rummel
 
 ...a passionate software engineer with a knack for creative problem-solving. With a background in Fine Arts and expertise in Object Oriented Programming, I craft sophisticated and highly curated digital experiences. Check out some of my projects and if you're interested in working together, I'd love to hear from you!
 
@@ -9,7 +9,7 @@
 
 ---
 
-# Get in Touch
+## Get in Touch
 - LinkedIn
 - GitHub
 - Blog
@@ -18,7 +18,7 @@
 
 ---
 
-# Skills and Programs
+## Skills and Programs
 
 <!--
 **nolanrummel/nolanrummel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
