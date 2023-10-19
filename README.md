@@ -2,9 +2,9 @@
 
 ...a passionate software engineer with a knack for creative problem-solving. With a background in Fine Arts and expertise in Object Oriented Programming, I craft sophisticated and highly curated digital experiences. Check out some of my projects and if you're interested in working together, I'd love to hear from you!
 
----
 - Based in New York, NY
 - Recently graduated from Flatiron School Software Engineering Bootcamp
+- Formerly worked as a Graphic Designer and Design Manager
 - Open to work and looking to collaborate on any projects!
 
 ---
