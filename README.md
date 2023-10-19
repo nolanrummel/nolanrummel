@@ -14,7 +14,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nolanrummel)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nolan.rummel22)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nolan.rummel22@gmail.com)
-[- Graphic Design Portfolio](https://www.nolan-rummel.com/)
+- [Graphic Design Portfolio](https://www.nolan-rummel.com/)
 
 ---
 
