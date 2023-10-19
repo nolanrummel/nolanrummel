@@ -1,6 +1,6 @@
 ## Hello there! :wave: I'm Nolan Rummel
 
-...a passionate software engineer with a knack for creative problem-solving. With a background in Fine Arts and expertise in OOP, I craft sophisticated and highly curated digital experiences. Check out some of my projects and if you're interested in working together, I'd love to hear from you!
+...a passionate software engineer with a knack for creative problem-solving. With a background in Fine Arts and expertise in Object Oriented Programming, I craft sophisticated and highly curated digital experiences. Check out some of my projects and if you're interested in working together, I'd love to hear from you!
 
 ---
 - Based in New York, NY
@@ -9,6 +9,16 @@
 
 ---
 
+# Get in Touch
+- LinkedIn
+- GitHub
+- Blog
+- Email
+- Graphic Design Portfolio
+
+---
+
+# Skills and Programs
 
 <!--
 **nolanrummel/nolanrummel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
